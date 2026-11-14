@@ -6,4 +6,4 @@ On Fedora, there is a problem with network connection due to the restriction of 
 The script was written by AI "Duck.ai" using the model "GPT-6 Luna"
 
 ### Download
-Download archieve from this GitHub-repository: [Завантажити репозиторій (ZIP)](https://github.com/IamMykytko/waydroid-fedora-network-issue-fix/archive/refs/tags/Stable.zip)
+Download archieve from this GitHub-repository: [Download the repository (ZIP)](https://github.com/IamMykytko/waydroid-fedora-network-issue-fix/archive/refs/tags/Stable.zip)
